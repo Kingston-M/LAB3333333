@@ -1,0 +1,7 @@
+requests
+pydantic-ai
+nba-api
+plotly
+geopy
+pandas
+streamlit
